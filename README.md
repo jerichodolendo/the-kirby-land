@@ -10,3 +10,11 @@ The Kirby Land is a basic alien-shooter game based on Java. The goal is to survi
 3. Configure Eclipse to run Java SE 8 (jre1.8 and jdk8.0.261).
 4. Run Main class.
 5. Enjoy the game!
+## Examples
+![Image Alt Text](img/screenshot_1.png)
+![Image Alt Text](img/screenshot_2.png)
+![Image Alt Text](img/screenshot_3.png)
+![Image Alt Text](img/screenshot_4.png)
+![Image Alt Text](img/screenshot_5.png)
+![Image Alt Text](img/screenshot_6.png)
+![Image Alt Text](img/screenshot_7.png)
